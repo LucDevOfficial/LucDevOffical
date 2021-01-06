@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey guys! My name is Luca and my passion is programming! I am a student and am currently attending a high school in Germany. ##
 
 <!--
 **LucDevOffical/LucDevOffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
