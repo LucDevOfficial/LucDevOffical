@@ -17,8 +17,8 @@ Discord: <b>[LucDev#2726](https://discord.bio/p/LucDev)</b>
 [<img align="left" alt="JDA" width="26px" src="https://avatars0.githubusercontent.com/u/26359291?s=200&v=4" />](https://github.com/DV8FromTheWorld/JDA)
 [<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" />](https://www.jetbrains.com/phpstorm/)
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/600px-IntelliJ_IDEA_Logo.svg.png" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="MySQL" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />](https://www.mysql.com)
-[<img align="left" alt="Git" width="26px" src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" />](https://git-scm.com/)
+[<img align="left" alt="MongoDB" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="MySQL" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />](https://www.mysql.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
 
 <br />
