@@ -13,6 +13,7 @@ Discord: <b>[LucDev#2726](https://discord.bio/p/LucDev)</b>
 [<img align="left" alt="Java" width="26px" height="26px" src="https://www.ispirer.net/images/java-logo.png" />](https://www.java.com/)
 [<img align="left" alt="PHP" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" />](https://php.net)
 [<img align="left" alt="Swift" width="26px" height="26px" src="https://media.discordapp.net/attachments/705341841473667133/843517190983516180/swift.png" />](https://swift.org/)
+[<img align="left" alt="Python" width="26px" src="https://media.discordapp.net/attachments/727758165822930964/853657892316905492/768px-Python-logo-notext.svg.png" />](https://python.org)
 [<img align="left" alt="MySQL" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />](https://www.mongodb.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
