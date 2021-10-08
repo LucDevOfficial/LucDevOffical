@@ -1,6 +1,3 @@
-<img src="" align="left" style="width: 100%" />  
-  
-
 ### <div align="center">I'm Luca, a developer working since 2016 🚀</div>  
   
 
