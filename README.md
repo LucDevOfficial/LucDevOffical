@@ -1,7 +1,7 @@
 ### <div align="center">I'm Luca, a developer working since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on [Layercraft](https://github.com/Layercraft), [TelurStudios](https://github.com/TellurStudios) and [PotionStudios](https://www.github.com/PotionStudios).  
+- 🔭 I’m currently working on [PotionStudios](https://www.github.com/PotionStudios).  
   
 
 - ❓ If have any questions or need help with your projects, contact me! :D  
