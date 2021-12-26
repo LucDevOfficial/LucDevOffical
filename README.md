@@ -1,7 +1,10 @@
 ### <div align="center">I'm Luca, a developer working since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on [PotionStudios](https://www.github.com/PotionStudios).  
+- 🔭 I’m currently working on 
+-  [PotionStudios](https://www.github.com/PotionStudios),  
+-  [NeruxVace - One of the largest Minecraft servers in Germany](https://www.neruxvace.net) and 
+-  [JukeboxMC - A new Minecraft Bedrock edition server software written in Java](https://github.com/LucGamesYT/JukeboxMC)
   
 
 - ❓ If have any questions or need help with your projects, contact me! :D  
